@@ -1,0 +1,37 @@
+//
+//  PrefixHeader.pch
+//  01-比柚购物车测试
+//
+//  Created by 我演示 on 2019/9/24.
+//  Copyright © 2019 我演示. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "UIView+FSLView.h"
+#import "MJExtension.h"
+#import "DataShowModel.h"
+#import "DetailModel.h"
+#import "FSLHeaderView.h"
+#import "FSLGoodsCell.h"
+#import "Masonry.h"
+#import "FSLButton.h"
+#import "FSLLabel.h"
+
+#import "FSLButton.h"
+#import "FSLGoodsCellFooterView.h"
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "GoodsCloseView.h"
+#import "GoodsDeleteView.h"
+
+#define NotionTextFieldEndeing @"ending"
+
+
+#endif /* PrefixHeader_pch */

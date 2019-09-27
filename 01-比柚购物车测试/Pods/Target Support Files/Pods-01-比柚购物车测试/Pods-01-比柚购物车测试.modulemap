@@ -1,0 +1,6 @@
+framework module Pods_01________ {
+  umbrella header "Pods-01-比柚购物车测试-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,150 @@
+[
+    {
+        "data" : [
+            {
+                "activity" : "1",
+                "img" : "img/y.jpg",
+                "price" : 158,
+                "proname" : "天天特价S925银渐变天鹅项链吊坠女纯银锁骨链韩版简约生日送女友",
+                "type" : "饰品",
+                "goodsId":"12345",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10,
+                
+                "discountCoupon": 10,
+                "discountCouponCount": 5
+                
+                
+            },
+            {
+                "activity" : "1",
+                "img" : "img/s1s.jpg",
+                "price" : 120,
+                "proname" : "羊剪绒外套短款女仿皮草大衣连帽皮毛一体狐狸毛领",
+                "type" : "女装",
+                "goodsId":"123456",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s1.jpg",
+                "price" : 278,
+                "proname" : "星星的你同款皮草大衣女中长款狐狸毛内胆仿皮草外套",
+                "type" : "女装",
+                "goodsId":"123457",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s1.jpg",
+                "price" : 88,
+                "proname" : "天天特价男士棉服冬季韩版潮流面包服男款棉衣冬天袄子男冬装外套",
+                "type" : "男装",
+                "goodsId":"123459",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s2.jpg",
+                "price" : 69,
+                "proname" : "天天特价花花公子贵宾马甲男秋冬季外套羽绒棉背心休闲马夹坎肩潮",
+                "type" : "男装",
+                "goodsId":"123450",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s3.jpg",
+                "price" : 79,
+                "proname" : "天天特价马丁靴女秋冬女鞋2017新款短靴女百搭英伦风裸靴平底女靴",
+                "type" : "鞋包",
+                "goodsId":"22345",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            }
+        ],
+        "home" : "牛好看啦世纪东方劳动模范看来看的免费看劳动模范卢萨卡房东交首付款世纪东方数据库的覅看看决胜巅峰拉开距离水电费哈空间划分即可"
+    },
+    {
+        "data" : [
+            {
+                "activity" : "0",
+                "img" : "img/y.jpg",
+                "price" : 158,
+                "proname" : "天天特价S925银渐变天鹅项链吊坠女纯银锁骨链韩版简约生日送女友",
+                "type" : "鞋包",
+                "goodsId":"223456",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s1s.jpg",
+                "price" : 120,
+                "proname" : "羊剪绒外套短款女仿皮草大衣连帽皮毛一体狐狸毛领",
+                "type" : "鞋包",
+                "goodsId":"223457",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s1.jpg",
+                "price" : 278,
+                "proname" : "星星的你同款皮草大衣女中长款狐狸毛内胆仿皮草外套",
+                "type" : "鞋包",
+                "goodsId":"223458",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s1.jpg",
+                "price" : 88,
+                "proname" : "天天特价男士棉服冬季韩版潮流面包服男款棉衣冬天袄子男冬装外套",
+                "type" : "鞋包",
+                "goodsId":"223458",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s2.jpg",
+                "price" : 69,
+                "proname" : "天天特价花花公子贵宾马甲男秋冬季外套羽绒棉背心休闲马夹坎肩潮",
+                "type" : "鞋包",
+                "goodsId":"223459",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            },
+            {
+                "activity" : "0",
+                "img" : "img/s3.jpg",
+                "price" : 79,
+                "proname" : "天天特价马丁靴女秋冬女鞋2017新款短靴女百搭英伦风裸靴平底女靴",
+                "type" : "鞋包",
+                "goodsId":"223450",
+                
+                "warehouseCount" : 20,
+                "goodsCount":10
+            }
+        ],
+        "home" : "1"
+    }    
+    
+]
